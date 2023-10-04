@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning nodejs and blockchain.
 - 👯 I’m looking to collaborate on any projetcs based on JavaScript
 - 💬 Ask me about JavaScript.
-- 📫 How to reach me: Twitter - [@paditya198](https://twitter.com/paditya198), [PortFolio]([https://paditya198.in/](https://portfolio-paditya198.vercel.app/))
+- 📫 How to reach me: Twitter - [@paditya198](https://twitter.com/paditya198), [PortFolio](https://portfolio-paditya198.vercel.app/)
 - ⚡ Fun fact: I love watching anime and playing games such as CSGO, Valorant.
 

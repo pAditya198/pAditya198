@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on self development and exploring new fields.
+- 🔭 I’m currently working on self development, exploring new fields and travelling .
 - 🌱 I’m currently learning nodejs and blockchain.
 - 👯 I’m looking to collaborate on any projetcs based on JavaScript
 - 💬 Ask me about JavaScript.
